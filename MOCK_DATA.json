@@ -1,0 +1,72 @@
+[
+  {
+    "establishment": "AudioCodes Ltd.",
+    "price": "$52.22",
+    "long": 31.016119,
+    "lat": -25.330584,
+    "date": "1698687907"
+  },
+  {
+    "establishment": "H&E Equipment Services, Inc.",
+    "price": "$56.72",
+    "long": 29.924903,
+    "lat": -0.7911388,
+    "date": "1701294892"
+  },
+  {
+    "establishment": "Biohaven Pharmaceutical Holding Company Ltd.",
+    "price": "$80.51",
+    "long": 121.293544,
+    "lat": 31.207751,
+    "date": "1726236134"
+  },
+  {
+    "establishment": "Panhandle Royalty Company",
+    "price": "$143.80",
+    "long": -48.0309631,
+    "lat": -20.179973,
+    "date": "1709109462"
+  },
+  {
+    "establishment": "Hertz Global Holdings, Inc",
+    "price": "$79.12",
+    "long": 113.0369406,
+    "lat": -8.0295271,
+    "date": "1696798375"
+  },
+  {
+    "establishment": "Wells Fargo & Company",
+    "price": "$93.08",
+    "long": 112.29102,
+    "lat": 24.497798,
+    "date": "1697132386"
+  },
+  {
+    "establishment": "Vanguard Global ex-U.S. Real Estate ETF",
+    "price": "$40.65",
+    "long": 18.6926323,
+    "lat": 49.9899828,
+    "date": "1701849495"
+  },
+  {
+    "establishment": "Blue Capital Reinsurance Holdings Ltd.",
+    "price": "$67.48",
+    "long": 3.4548833,
+    "lat": 11.8852599,
+    "date": "1698658550"
+  },
+  {
+    "establishment": "First South Bancorp Inc",
+    "price": "$129.28",
+    "long": 84.8672171,
+    "lat": 27.0449005,
+    "date": "1697075154"
+  },
+  {
+    "establishment": "MainStay DefinedTerm Municipal Opportunities Fund",
+    "price": "$160.78",
+    "long": 123.9719166,
+    "lat": 12.7523556,
+    "date": "1702345949"
+  }
+]

@@ -1,0 +1,4 @@
+#17153B -- background color
+#2E236C -- background color for buttons, cards, etc...
+#433D8B -- icons
+#C8ACD6 -- text color
